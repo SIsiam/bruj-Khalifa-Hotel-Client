@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Bruj Khalifa Hotel Client Site
 
 ### Live : https://burj-khalifa-hotel.web.app/
